@@ -17,4 +17,5 @@ weight layer, it contained 3 × 3 filters for a specific number of input channel
 output channels. The output of a sequence of ResNet basic blocks goes through a max
 pooling layer with a filter size of 4x4, and then goes to a fully-connected
 layer.
+
 • Fine-tuned a pre-trained ResNet-18 model and achieved 77% test accuracy.
